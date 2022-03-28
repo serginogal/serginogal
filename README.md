@@ -3,9 +3,9 @@
 
 - 👨‍💻 I'm a **Fullstack Engineer** 
 
-- From **Barcelona, SP 🇪🇸**
+- 🇪🇸 From **Barcelona, SP**
 
-- Working in **Tokyo, JP 🇯🇵**
+- 🇯🇵 Working in **Tokyo, JP**
 
 - 🌱 Currently learning **Blockchain**
 
