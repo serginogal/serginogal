@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, My name is Sergi Nogal</h1>
-<h3 align="center">I'm a Fullstack Engineer</h3>
+<h1 align="center">Hi there 👋, Welcome to my Github</h1>
+<h3 align="center">My name is Sergi Nogal</h3>
+
+- 👨‍💻 I'm a **Fullstack Engineer** 
 
 - From **Barcelona, SP 🇪🇸**
 
@@ -7,7 +9,7 @@
 
 - 🌱 Currently learning **Blockchain**
 
-- 👨‍💻 You can check my website at [https://serginogal.netlify.app](https://serginogal.netlify.app)
+- 💻 You can check my website at [https://serginogal.netlify.app](https://serginogal.netlify.app)
 
 - 💬 Ask me about **React, React Native, Javascript**
 
