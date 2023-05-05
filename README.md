@@ -18,7 +18,7 @@ Tokyo, Japan 🇯🇵
 ### 📫 Feel free to contact me
 snogal.cm@gmail.com
 
-<h3 align="left">Find me on:</h3>
+### 🔎 Find me on
 
 <a href="mailto:snogal.cm@gmail.com" target="blank">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://linkedin.com/in/sergi-nogal-13493b13b" target="blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href="https://instagram.com/__nogu" target="blank">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
 
